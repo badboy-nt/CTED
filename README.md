@@ -6,4 +6,4 @@ In this repository you will find:
 
 - /Tool: You can run it from your Windows system independently.
 
-- /FOCA Plugin: You have the dll so you can run it from the FOCA OpenSource https://www.elevenpaths.com/labstools/foca/index.html
+- /FOCA Plugin: You have the DLL so you can run it from the FOCA OpenSource https://www.elevenpaths.com/labstools/foca/index.html
