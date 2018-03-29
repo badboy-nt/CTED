@@ -4,7 +4,7 @@ For more information about CT logs, check www.certificate-transparency.org
 
 In this repository you will find:
 
-- /Tool: You can run it from your Windows system independently.
+- /Tool: You can run it from your Windows system independently.<br/>
    Requirements: .Net Framework v4.0
 
 - /FOCA Plugin: You have the DLL so you can run it from the FOCA OpenSource https://www.elevenpaths.com/labstools/foca/index.html
