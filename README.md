@@ -1,6 +1,6 @@
 # CTED
 This tool will allow you to obtain the subdomains of an HTTPS website based on the CT logs. It make use of Certificate Transparency Logs for getting HTTPS websites subdomains.<br/>
-For more information about CT records, see www.certificate-transparency.org and crt.sh.
+For more information about CT logs, check www.certificate-transparency.org
 
 In this repository you will find:
 
